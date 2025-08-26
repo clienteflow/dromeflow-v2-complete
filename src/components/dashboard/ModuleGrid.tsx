@@ -11,7 +11,8 @@ import {
   Settings, 
   Shield, 
   TrendingUp,
-  ArrowRight
+  ArrowRight,
+  Package
 } from 'lucide-react'
 
 type Module = Database['public']['Tables']['modules']['Row']
